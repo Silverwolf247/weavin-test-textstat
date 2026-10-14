@@ -1,0 +1,7 @@
+{
+  "name": "weavin-test-textstat",
+  "version": "1.0.0",
+  "description": "Deterministic text statistics CLI (zero dependencies)",
+  "private": true,
+  "license": "MIT"
+}
