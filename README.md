@@ -3,7 +3,7 @@
 A small command-line tool (Node.js, no third-party dependencies) that computes statistics for a piece of text. It is deterministic: the same input always gives the same output. No network access, no API keys.
 
 ## Install
-`npm install` (there are no dependencies; this only validates package.json). Requires Node.js 18 or newer.
+`npm ci` (there are no dependencies; package-lock.json is committed so installs are deterministic). Requires Node.js 18 or newer.
 
 ## Run
 ```
