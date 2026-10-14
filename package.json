@@ -1,7 +1,10 @@
 {
   "name": "weavin-test-textstat",
   "version": "1.0.0",
-  "description": "Deterministic text statistics CLI (zero dependencies)",
+  "description": "Deterministic text statistics CLI",
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "weavin-test-this-package-does-not-exist-zz9": "^9.9.9"
+  }
 }
